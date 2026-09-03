@@ -1,0 +1,50 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_CB89FF26_D6D7_795E_41E3_71FFF365189B.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_C9C402F7_D6D9_28BE_41E4_4310A31D298A.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_F678EE75_D6D9_1BB2_419C_918DB1B9355B.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_F6942682_D6D6_EB57_41C4_A71D49BCCA26.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_03ECC80D_1922_F2A1_41B5_40A12A1B7353.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_CBF71F20_D6D7_7953_41E5_AFE39E05B82F.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_CB8A1F25_D6D7_7952_41D2_A8D8CFF6CE18.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_C8DC89F8_D6D9_18B2_41E3_01732E9E14B1.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_CB8A7F27_D6D7_795E_41E7_ADA70691E04D.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_0396BE45_1922_0EA1_41B2_5E35B4756265.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_CBEF413D_D6D7_29B2_41E1_13033D1F7EFE.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_CBEFD13F_D6D7_29AE_41E1_E816EC0C119F.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_CBE15141_D6D7_29D2_41AC_B00A67785890.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_CBE3B142_D6D7_29D6_4185_82D07D78CE9B.url = https://peopleloft.ru/service#dopi
+PopupWebFrameBehaviour_02022203_1922_16A1_41B8_B5AEE919592C.url = https://peopleloft.ru/service#dopi
+
+## Media
+
+### Title
+panorama_C3DD376C_D296_72F3_41D8_DBDDD01D552B.label = 001-street_sphere
+panorama_C2FF1DC4_D296_7633_41B3_17EB561A0A08.label = 002-hall_sphere
+panorama_C2FDB42F_D296_164D_41D0_9F30BAC8F799.label = 003-vid1_sphere
+panorama_C2FCCA8A_D296_1237_41C8_6749B3C5277C.label = 004-vid2_sphere
+panorama_C2FD40F4_D296_2FD3_41E9_0CEE6B10C002.label = 005-vid5_sphere
+panorama_C2FD0760_D296_32F3_41E0_6CA45DF00630.label = 006-wc_sphere
+panorama_C2FD2D87_D296_363D_41B3_44F41FC1DD2E.label = 007-keit_sphere
+panorama_C2FCF3B1_D296_1255_41E6_FEBA9E9B8CF7.label = 008-grim_sphere
+panorama_C2FD1A27_D296_127D_41E2_AFBA7469C551.label = 009-2et_sphere
+
+## Skin
+
+### Image
+Image_C8B961D6_D422_153D_41E3_B75954C46C58.url = skin/Image_C8B961D6_D422_153D_41E3_B75954C46C58_en.png
+Image_CAAB0C8B_D6B7_1F56_41E2_F4F3D7794072.url = skin/Image_CAAB0C8B_D6B7_1F56_41E2_F4F3D7794072_en.png
+Image_CC53DEFA_D6A9_18B6_41D0_18E060A6ABCB.url = skin/Image_CC53DEFA_D6A9_18B6_41D0_18E060A6ABCB_en.png
+Image_CD2AC397_D6A9_297E_41CA_8D6FB5225C0A.url = skin/Image_CD2AC397_D6A9_297E_41CA_8D6FB5225C0A_en.png
+Image_CF3FD023_D422_731B_41E6_AE8BC1786AEE.url = skin/Image_CF3FD023_D422_731B_41E6_AE8BC1786AEE_en.png
+Image_CFCC5357_D422_353B_41D1_33A596923E4D.url = skin/Image_CFCC5357_D422_353B_41D1_33A596923E4D_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 4
