@@ -47,4 +47,4 @@ Image_CFCC5357_D422_353B_41D1_33A596923E4D.url = skin/Image_CFCC5357_D422_353B_4
 ### Description
 
 ### Title
-tour.name = PEOPLE 3D TOUR
+tour.name = PEOPLE - 3D FULL
